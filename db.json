@@ -5,6 +5,10 @@
       "name": "Leanne Graham",
       "username": "Bret",
       "password": "12345",
+      "courses":[
+        {"id": "0d516b1a-af9f-4bb5-9030-c30c1495965a"},
+        {"id": "b7c052c3-303a-4d79-886a-7fa665e31da1"}
+      ],
       "email": "Sincere@april.biz",
       "address": {
         "street": "Kulas Light",
